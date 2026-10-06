@@ -1,0 +1,1 @@
+   call "E:\Download\oss-cad-suite-windows-x64-20260828\oss-cad-suite\environment.bat"

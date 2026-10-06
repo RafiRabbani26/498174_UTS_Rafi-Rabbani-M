@@ -1,0 +1,4 @@
+set_io clk 35
+set_io tm_cs 10
+set_io tm_clk 3
+set_io tm_dio 48
